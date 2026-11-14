@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+ber_results.csv
+ber_curve.png
